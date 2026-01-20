@@ -27,3 +27,17 @@ Additional notes:
 * Create PS script that will constantly check for new user csvs and create accounts if a new user csv is found
 * Create GUI python application for creating new user CSV
 * Make required checkbox that asks submitter if O365 license is available
+* Fields that will need to be included
+    * First Name (text)
+    * Last Name (text)
+    * Username (text)
+    * Job Title (drop down)
+    * Department (drop down)
+    * Company (drop down)
+    * Manager (username?) (text)
+    * SHJ Dart/SHJ DEX/Not SHJ (drop down)
+    * Primary SMTP (text)
+    * Office (text)
+    * Issue# (text)
+* Create data drive
+    * Create "Message Board Profiles" directory
